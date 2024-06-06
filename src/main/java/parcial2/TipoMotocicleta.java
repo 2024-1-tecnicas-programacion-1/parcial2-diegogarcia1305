@@ -1,5 +1,11 @@
 package parcial2;
-
+/* Complejidad: 0(1) complejidad constante*/
 public enum TipoMotocicleta {
-    // TODO: Tu código va aquí
+DEPORTIVA,
+TOURING,
+NAKED,
+CAFE_RACER,
+CRUISER,
+SCOOTER,
+ENDURO
 }
